@@ -4,8 +4,9 @@ first mini project for koding and kahawa.This is a way of showcasing how flutter
 
 # Technologies 
 
-1. Flutter
-2. Visual studio code / Android Studio
+1. Flutter --> This is the UI framework being used 
+2. dart --> thsi is the programming language we are using 
+3. Visual studio code / Android Studio --> Envronments that can be used to build flutter apps 
 
 # Step 1: How to create an app in flutter 
 Flutter apps are created by running the ``` flutter create <app name> ``` on terminal. By default required folders are created together with a default app created by the Flutter team. 
