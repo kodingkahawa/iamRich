@@ -2,11 +2,9 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(
-    const MaterialApp(
+    MaterialApp(
       home: Scaffold(
-        body: Center(
-          child: Text("I drink coffee "),
-        ),
+        body: Center(child: Image.asset("assets/images/pic.jpg")),
       ),
     ),
   );

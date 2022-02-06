@@ -103,8 +103,13 @@ By default all flutter projects include the ```pubspec.yaml``` file  which conta
 To add a photo to the background of our app we need this file to define the specific image.
 ````dart
   assets:  # Lists assets, such as image files
-    - assets/pic.png
+    - assets/images/pic.png
+````
 
+## Step 7: Inserting an Image 
+Inside the ```Center ``` widget replace the ```text``` widget with  ```Image.asset("path to image)```
+````dart
+  body: Center(child: Image.asset("assets/images/pic.jpg")),
 
 ````
 
