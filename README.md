@@ -94,12 +94,8 @@ Scaffold is a class in flutter which provides many widgets or we can say APIs li
 ````
 
 The sanple app is shown below 
+
 ![demo app ](https://github.com/kodingkahawa/iamRich/blob/dev/iamrichapp/assets/scaffold.png)
-
-
-
-
-
 
 ## Step 6: Working with Pubspec.yaml file 
 By default all flutter projects include the ```pubspec.yaml``` file  which contains the metadata about the project. The file is ued to specify the dependancies that the project is using such as images, packages, fonts etc.  
