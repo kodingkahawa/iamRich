@@ -85,10 +85,8 @@ For example we can center the ``text`` widget by nesting it inside the ```Center
   runApp(const MaterialApp(home: Center(child: Text("I drink coffee "))));
 ````
 ![demo app ](https://github.com/kodingkahawa/iamRich/blob/dev/iamrichapp/assets/demoapp.png)
-<<<<<<< HEAD
-=======
 
->>>>>>> e130eca44d279892edd24f3152dfc4eb48704af0
+
 
 ##
 
