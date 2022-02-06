@@ -78,7 +78,8 @@ Material is a design system created by Google to help teams build high-quality d
 
 ```Text```
 The Text widget lets you create a run of styled text within your application.If this widgets are nested together they form a widget tree as shown below.
-For example we can center the ``text`` widget by nesting it inside the ```Center``` widget
-***picture
+![demo app ](https://github.com/kodingkahawa/iamRich/blob/dev/iamrichapp/assets/tree3.png)
+For example we can center the ``text`` widget by nesting it inside the ```Center``` widget.The display for the equivalent code is shwon below.
+![demo app ](https://github.com/kodingkahawa/iamRich/blob/dev/iamrichapp/assets/demoapp.png)
 
 
