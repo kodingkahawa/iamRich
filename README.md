@@ -112,10 +112,13 @@ Inside the ```Center ``` widget replace the ```text``` widget with  ```Image.ass
   body: Center(child: Image.asset("assets/images/pic.jpg")),
 ````
 
+The equivalent app is as shown below 
+
+![demo app ](https://github.com/kodingkahawa/iamRich/blob/dev/iamrichapp/assets/f.png)
+
 ## Conclusion 
 The app that we have built is a basic app that just displays an image to the user.This is to demonstrate how fluitter apps are built.
 
-![demo app ]()
 
 
                                                             ````The End````
