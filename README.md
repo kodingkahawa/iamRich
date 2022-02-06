@@ -88,7 +88,11 @@ For example we can center the ``text`` widget by nesting it inside the ```Center
 
 ## Step 5: Scafolding your app 
 We do this by using ```scaffold``` widget.
-Scaffold is a class in flutter which provides many widgets or we can say APIs like Drawer, SnackBar, BottomNavigationBar, FloatingActionButton, AppBar etc. Scaffold will expand or occupy the whole device screen. It will occupy the available space. Scaffold will provide a framework to implement the basic material design layout of the application. 
+Scaffold is a class in flutter which provides many widgets or we can say APIs like Drawer, SnackBar, BottomNavigationBar, FloatingActionButton, AppBar etc. Scaffold will expand or occupy the whole device screen. It will occupy the available space. Scaffold will provide a framework to implement the basic material design layout of the application. If the app is now Scaffolled, our equivalent code will be as shown below
+````dart
+  runApp(const MaterialApp(home: Scaffold(body: Center(child: Text("I drink coffee ")))));
+
+````
  
 
 
