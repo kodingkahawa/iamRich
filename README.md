@@ -91,13 +91,16 @@ We do this by using ```scaffold``` widget.
 Scaffold is a class in flutter which provides many widgets or we can say APIs like Drawer, SnackBar, BottomNavigationBar, FloatingActionButton, AppBar etc. Scaffold will expand or occupy the whole device screen. It will occupy the available space. Scaffold will provide a framework to implement the basic material design layout of the application. If the app is now Scaffolled, our equivalent code will be as shown below
 ````dart
   runApp(const MaterialApp(home: Scaffold(body: Center(child: Text("I drink coffee ")))));
-
 ````
- 
 
 
 
-## Step 5: Working with Pubspec.yaml file 
+
+
+
+
+
+## Step 6: Working with Pubspec.yaml file 
 By default all flutter projects include the ```pubspec.yaml``` file  which contains the metadata about the project. The file is ued to specify the dependancies that the project is using such as images, packages, fonts etc.  
 
 To add a photo to the background of our app we need this file to define the specific image.
