@@ -81,7 +81,4 @@ The Text widget lets you create a run of styled text within your application.If 
 For example we can center the ``text`` widget by nesting it inside the ```Center``` widget
 ***picture
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 7c02143fa2a5675c56b4f02059c84a3921b520b5
