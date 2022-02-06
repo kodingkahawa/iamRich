@@ -107,9 +107,10 @@ To add a photo to the background of our app we need this file to define the spec
 ````
 
 ## Step 7: Inserting an Image 
-Inside the ```Center ``` widget replace the ```text``` widget with  ```Image.asset("path to image)```
+Inside the ```Center ``` widget replace the ```text``` widget with  ```Image.asset("path to image)````
 ````dart
   body: Center(child: Image.asset("assets/images/pic.jpg")),
+````
 
 ## Conclusion 
 The app that we have built is a basic app that just displays an image to the user.This is to demonstrate how fluitter apps are built.
