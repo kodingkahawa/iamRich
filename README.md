@@ -93,7 +93,8 @@ Scaffold is a class in flutter which provides many widgets or we can say APIs li
   runApp(const MaterialApp(home: Scaffold(body: Center(child: Text("I drink coffee ")))));
 ````
 
-
+The sanple app is shown below 
+![demo app ](https://github.com/kodingkahawa/iamRich/blob/dev/iamrichapp/assets/scaffold.png)
 
 
 
