@@ -87,6 +87,17 @@ For example we can center the ``text`` widget by nesting it inside the ```Center
 ![demo app ](https://github.com/kodingkahawa/iamRich/blob/dev/iamrichapp/assets/demoapp.png)
 
 
+## Step 5: Working with Pubspec.yaml file 
+By default all flutter projects include the ```pubspec.yaml``` file  which contains the metadata about the project. The file is ued to specify the dependancies that the project is using such as images, packages, fonts etc.  
+
+To add a photo to the background of our app we need this file to define the specific image.
+````dart
+  assets:  # Lists assets, such as image files
+    - assets/pic.png
+
+
+````
+
 
 ##
 
